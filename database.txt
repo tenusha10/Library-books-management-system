@@ -1,0 +1,60 @@
+1,to kill a mockingbird,harper lee,0
+2,pride and prejudice,jane austen,1000
+3,the diary of anne frank,anne frank,1212
+4,1984,george orwell,0
+5,harry potter and the sorcerer's stone,j k rowling,0
+6,the book thief,markus zusak,0
+7,the great gatsby,f scott fitzgerald,0
+8,charlotte's web,e b white,0
+9,the hobbit,j r r tolkien,7685
+10,little women,louisa may alcott ,0
+11,fahrenheit 451,ray bradbury,8965
+12,jane eyre,charlotte bronte,5656
+13,animal farm,george orwell,9812
+14,gone with the wind,margaret mitchell,2341
+15,the catcher in the rye,j d salinger,0
+16,the lord of the rings,jrr tolkien,0
+17,the lord of the rings,jrr tolkien,8978
+18,the lord of the rings,jrr tolkien,8976
+19,the adventures of huckleberry finn,mark twain,5432
+20,the hunger games,suzanne collins ,8965
+21,the hunger games,suzanne collins ,0
+22,the hunger games,suzanne collins ,0
+23,the help,kathryn stockett,0
+24,the help,kathryn stockett,4321
+25,the help,kathryn stockett,4928
+26,the help,kathryn stockett,0
+27,the grapes of wrath,john steinbeck,7865
+28,the lord of the flies,william golding,0
+29,the kite runner,khaled hosseini,8976
+30,hamlet,william shakespeare,6543
+31,hamlet,william shakespeare,0
+32,hamlet,william shakespeare,6542
+33,hamlet,william shakespeare,6541
+34,hamlet,william shakespeare,6549
+35,of mice and men,john steinbeck,4928
+36,of mice and men,john steinbeck,4853
+37,of mice and men,john steinbeck,2390
+38,of mice and men,john steinbeck,1100
+39,a christmas carol,charles dickens,0
+40,romeo and juliet,william shakespeare,5855
+41,romeo and juliet,william shakespeare,5255
+42,romeo and juliet,william shakespeare,5535
+43,romeo and juliet,william shakespeare,5505
+44,romeo and juliet,william shakespeare,5515
+45,romeo and juliet,william shakespeare,5522
+46,romeo and juliet,william shakespeare,9555
+47,the hitchhikers guide to the galaxy,douglas adams,0
+48,the hitchhikers guide to the galaxy,douglas adams,0
+49,the secret garden,frances hodgson burnett,1290
+50,the secret garden,frances hodgson burnett,9012
+51,a christmas carol,charles dickens,1275
+52,a christmas carol,charles dickens,9900
+53,a christmas carol,charles dickens,3434
+54,harry potter and the deathly hallows,j k rowling,4928
+55,harry potter and the deathly hallows,j k rowling,8546
+56,harry potter and the deathly hallows,j k rowling,8967
+57,harry potter and the deathly hallows,j k rowling,0
+58,the handmaid's tale,margaret atwood,0
+59,wuthering heights,emily bronte,8901
+60,the fault in our stars,john green,0
